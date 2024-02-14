@@ -1,7 +1,7 @@
 ### Oi! Prazer em te ver por aqui! Me chamo Arom 👋
 
-- 🌱 Atualmente estou estudando (por ordem de dedicação): Angular, Type Script e Java Spring Boot
-- 💻 Estou procurando trabalho
+- 🌱 Atualmente estou estudando: Angular, Type Script e Java Spring Boot
+- 💻 Estou participando de um estágio em que estamos implementando uma API Web com Spring Boot. Também estou aberto a novas oportunidades de trabalho
 - 😄 Pronome: Ele/Dele
 
 <a href="https://github.com/arom-danelli/convoychat">
