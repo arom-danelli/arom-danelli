@@ -1,6 +1,6 @@
 ### Oi! Prazer em te ver por aqui! Me chamo Arom 👋
 
-- 🌱 Atualmente estou estudando (por ordem de dedicação): Python, Dart, Java, JavaScript, TypeScript e HTML
+- 🌱 Atualmente estou estudando (por ordem de dedicação): Angular, Type Script e Java Spring Boot
 - 💻 Estou procurando trabalho
 - 😄 Pronome: Ele/Dele
 
