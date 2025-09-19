@@ -1,3 +1,6 @@
+[![An image of @aromdanelli's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aromdanelli)](https://holopin.io/@aromdanelli)
+
+
 ### Oi! Prazer em te ver por aqui! Me chamo Arom 👋
 
 - 🌱 Atualmente estou estudando: Angular, Type Script e Java Spring Boot
