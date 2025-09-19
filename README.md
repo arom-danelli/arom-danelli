@@ -3,9 +3,9 @@
 
 ### Oi! Prazer em te ver por aqui! Me chamo Arom 👋
 
-- 🌱 Atualmente estou estudando: Angular, Type Script e Java Spring Boot
-- 💻 Estou participando de um estágio em que estamos implementando uma API Web com Spring Boot. Também estou aberto a novas oportunidades de trabalho
-- 😄 Pronome: Ele/Dele
+- 🌱 Sou Desenvolvedor Backend Junior na Onsafety! 
+- 💻 Áreas de interesse: Backend • Automação • Inteligência Artificial
+
 
 <a href="https://github.com/arom-danelli/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arom-danelli&theme=transparent&layout=compact&langs_count=8&card_width=320" />
